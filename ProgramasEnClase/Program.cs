@@ -2,6 +2,6 @@
 
 BucleFor realizar = new BucleFor();
 
-realizar.ImprimirNumeroHasta100();
+//realizar.ImprimirNumeroHasta100();
 
-Console.ReadLine();
+realizar.CalcularSumayPromedio();
